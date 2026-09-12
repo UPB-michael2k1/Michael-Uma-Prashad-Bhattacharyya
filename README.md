@@ -12,29 +12,30 @@ This profile serves as a transparent look at my daily technical learning, hands-
 
 ## 🛠️ Tech Stack & Expertise
 * **Data & Analytics:** Power BI, Excel, SQL, Python (Pandas/NumPy)
+* **Data Engineering:** ETL pipeline concepts, data warehousing foundations, and data architecture frameworks (In Progress)
 * **Data Science:** Core Data Science principles and Machine Learning foundations (In Progress)
-* **Cloud & DevOps:** AWS (Solutions Architect principles), Docker & Containerization
-* **Network Security & Automation:** Python Network Scripting (Netmiko/Paramiko), Cisco ASA, Palo Alto Networks, Fortinet
-* **Core Infrastructure:** Linux Administration (RHEL), Enterprise Networking (CCNP Routing & Switching)
+* **Multi-Cloud Ecosystems:** AWS (Solutions Architect principles), Microsoft Azure (AZ-104 administration tracks), and Google Cloud Platform (GCP Cloud Architect tracks)
+* **Network Security & Identity:** Cisco Firepower & ASA, Palo Alto Networks, Fortinet, Cisco ISE (Identity Services Engine), and enterprise Site-to-Site/Remote Access VPNs
+* **Core Infrastructure:** Enterprise Networking (CCNP Routing & Switching, MPLS backbones), Linux Administration (RHEL), and Windows Server (Active Directory, Group Policy)
+* **Automation & Scripting:** Bash/Shell scripting, foundational PowerShell, and Python Network Scripting (Netmiko/Paramiko)
 * **Languages / Sprachen:** English (Fluent), German / Deutsch 🇩🇪 (Active Learner — targeting professional proficiency)
-
+ 
 ---
 
 ## 📌 Technical Portfolios & Lab Journals
 
-### 📊 Data Analytics & Data Science
-* **[Data Analytics Portfolio](https://github.com/UPB-michael2k1/Data-Analytics-Projects-DA-DE-DS-/tree/main):** End-to-end data projects. Contains SQL data cleaning, Python analysis scripts, and business insights.
+### 📊 Data & Analytics Engineering
+* **[Data Analytics Portfolio](https://github.com/UPB-michael2k1/Data-Analytics-Projects-DA-DE-DS-/tree/main):** End-to-end data pipelines. Contains SQL data transformations, exploratory Python analysis scripts, and business insight summaries across DA, DE, and DS workflows.
 * **Live Dashboards:** Check out my interactive, business-ready reports on my [NovyPro Profile](YOUR_NOVYPRO_LINK_HERE).
 
 ### 🌐 Network Security, Infrastructure & Automation
-* **[Network Security & Automation Logs](https://github.com):** Advanced routing (CCNP), Next-Gen Firewall setups (ASA, Palo Alto, Fortinet), and Python network automation scripts.
-* **[Linux & System Administration](https://github.com):** Collection of shell scripts, system administration workflows, and automation logs.
+* **[Network Security & Automation Logs(https://github.com/UPB-michael2k1/Network-Security-and-Automation/tree/main):** Advanced routing matrices (CCNP, MPLS), enterprise identity policies (Cisco ISE), Next-Gen Firewall setups (Firepower, ASA, Palo Alto, Fortinet), and Python network automation scripts.
+* **[Systems Administration & Automation](./Systems-Administration-and-Automation):** Cross-platform enterprise administration logs (Linux/RHEL & Windows Server), active directory structures, bash utilities, and core PowerShell scripting templates.
 
-### ☁️ Cloud & DevOps Labs
-* **[AWS Architecture Blueprints](https://github.com):** Implementations of highly available, fault-tolerant cloud infrastructures based on AWS SAA workflows.
-* **[Docker & Containers](https://github.com):** Practical setups for containerized microservices and environment isolation.
+### ☁️ Cloud & DevOps Environments
+* **[Multi-Cloud Architecture Demos](./Cloud-Architecture-Blueprints):** Blueprint implementations of highly available, secure, and fault-tolerant cloud infrastructures crossing AWS, Azure (AZ-104), and GCP frameworks.
+* **[Docker & Containers](./docker-fundamentals):** Practical setups for containerized microservices, image optimization, and local environment isolation workflows.
 
----
 
 ## 📫 Let's Connect / Kontakt
 
