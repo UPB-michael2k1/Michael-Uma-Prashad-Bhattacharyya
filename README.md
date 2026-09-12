@@ -33,7 +33,7 @@ This profile serves as a transparent look at my daily technical learning, hands-
 * **[Systems Administration & Automation](https://github.com/UPB-michael2k1/Systems-Administration-Automation/tree/main):** Cross-platform enterprise administration logs (Linux/RHEL & Windows Server), active directory structures, bash utilities, and core PowerShell scripting templates.
 
 ### ☁️ Cloud & DevOps Environments
-* **[Multi-Cloud Architecture Demos]((https://github.com/UPB-michael2k1/Cloud-Architecture-Blueprints/tree/main):** Blueprint implementations of highly available, secure, and fault-tolerant cloud infrastructures crossing AWS, Azure (AZ-104), and GCP frameworks.
+* **[Multi-Cloud Architecture Demos](https://github.com/UPB-michael2k1/Cloud-Architecture-Blueprints/tree/main):** Blueprint implementations of highly available, secure, and fault-tolerant cloud infrastructures crossing AWS, Azure (AZ-104), and GCP frameworks.
 * **[Docker & Containers](./docker-fundamentals):** Practical setups for containerized microservices, image optimization, and local environment isolation workflows.
 
 
