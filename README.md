@@ -29,8 +29,8 @@ This profile serves as a transparent look at my daily technical learning, hands-
 * **Live Dashboards:** Check out my interactive, business-ready reports on my [NovyPro Profile](YOUR_NOVYPRO_LINK_HERE).
 
 ### 🌐 Network Security, Infrastructure & Automation
-* **[Network Security & Automation Logs(https://github.com/UPB-michael2k1/Network-Security-and-Automation/tree/main):** Advanced routing matrices (CCNP, MPLS), enterprise identity policies (Cisco ISE), Next-Gen Firewall setups (Firepower, ASA, Palo Alto, Fortinet), and Python network automation scripts.
-* **[Systems Administration & Automation](./Systems-Administration-and-Automation):** Cross-platform enterprise administration logs (Linux/RHEL & Windows Server), active directory structures, bash utilities, and core PowerShell scripting templates.
+* **[Network Security & Automation Logs](https://github.com/UPB-michael2k1/Network-Security-and-Automation/tree/main):** Advanced routing matrices (CCNP, MPLS), enterprise identity policies (Cisco ISE), Next-Gen Firewall setups (Firepower, ASA, Palo Alto, Fortinet), and Python network automation scripts.
+* **[Systems Administration & Automation](https://github.com/UPB-michael2k1/Systems-Administration-Automation/tree/main):** Cross-platform enterprise administration logs (Linux/RHEL & Windows Server), active directory structures, bash utilities, and core PowerShell scripting templates.
 
 ### ☁️ Cloud & DevOps Environments
 * **[Multi-Cloud Architecture Demos](./Cloud-Architecture-Blueprints):** Blueprint implementations of highly available, secure, and fault-tolerant cloud infrastructures crossing AWS, Azure (AZ-104), and GCP frameworks.
