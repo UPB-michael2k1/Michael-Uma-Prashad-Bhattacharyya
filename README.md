@@ -17,7 +17,7 @@ This profile gives you a transparent look at my daily technical learning, hands-
 ## 📌 Technical Portfolios & Lab Journals
 
 ### 📊 Data Analytics & Business Intelligence
-* **[Data Analytics Portfolio](https://github.com):** A collection of end-to-end data projects, including SQL data cleaning, Python analysis scripts, and business insights.
+* **[Data Analytics Portfolio]([https://github.com ](https://github.com/UPB-michael2k1/Data-Analytics-Projects-DA-DE-DS-/tree/main)):** A collection of end-to-end data projects, including SQL data cleaning, Python analysis scripts, and business insights.
 * **Live Dashboards:** Explore my interactive, business-ready reports on my [NovyPro Profile](YOUR_NOVYPRO_LINK_HERE).
 
 ### ☁️ Cloud & DevOps Labs
