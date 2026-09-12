@@ -4,7 +4,7 @@
 ### 🇩🇪 Ich lerne derzeit Deutsch und freue mich über Anfragen auf Deutsch oder Englisch!
 *(I am currently learning German and welcome inquiries in German or English!)*
 
-Welcome to my technical journal. I am a versatile IT professional with deep roots in **System Infrastructure & Enterprise Networking**, currently expanding my expertise into the worlds of **Data Analytics, Data Science, and Network Automation**.
+Welcome to my technical journal. I am a versatile IT professional with deep roots in **System Infrastructure & Enterprise Networking**, currently expanding my expertise into **Data Analytics, Data Science, and Network Automation**.
 
 This profile serves as a transparent look at my daily technical learning, hands-on labs, and real-world project implementations.
 
@@ -34,7 +34,7 @@ This profile serves as a transparent look at my daily technical learning, hands-
 
 ### ☁️ Cloud & DevOps Environments
 * **[Multi-Cloud Architecture Demos](https://github.com/UPB-michael2k1/Cloud-Architecture-Blueprints/tree/main):** Blueprint implementations of highly available, secure, and fault-tolerant cloud infrastructures crossing AWS, Azure (AZ-104), and GCP frameworks.
-* **[Docker & Containers](./docker-fundamentals):** Practical setups for containerized microservices, image optimization, and local environment isolation workflows.
+* **[Docker & Containers](https://github.com/UPB-michael2k1/Docker-fundamentals-Containerization/tree/main):** Practical setups for containerized microservices, image optimization, and local environment isolation workflows.
 
 
 ## 📫 Let's Connect / Kontakt
