@@ -34,4 +34,4 @@ This profile gives you a transparent look at my daily technical learning, hands-
 
 * **LinkedIn:**[ [(https://www.linkedin.com/in/uma-prashad-bhattacharyya-6205b66/
 * **Email:** michael2k1@gmail.com
-* **Email:** [Your Email Here]
+
